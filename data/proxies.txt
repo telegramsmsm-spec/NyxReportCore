@@ -1,0 +1,5 @@
+# Optional seed proxies (one per line). Format:
+# socks5://user:pass@host:port
+# http://host:port
+# socks5://host:port
+# The live harvester will continuously add more from proxy channels.

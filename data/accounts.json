@@ -1,0 +1,20 @@
+[
+  {
+    "phone": "+1234567890",
+    "api_id": 12345678,
+    "api_hash": "your_api_hash_here",
+    "session_name": "acc_001",
+    "string_session": null,
+    "2fa": null,
+    "proxy": null
+  },
+  {
+    "phone": "+1987654321",
+    "api_id": 87654321,
+    "api_hash": "another_api_hash",
+    "session_name": "acc_002",
+    "string_session": null,
+    "2fa": "optional_2fa_password",
+    "proxy": "socks5://user:pass@1.2.3.4:1080"
+  }
+]

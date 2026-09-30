@@ -1,0 +1,18 @@
+[
+  {
+    "host": "smtp.example.com",
+    "port": 587,
+    "user": "reporter1@example.com",
+    "password": "smtp_password_here",
+    "from_name": "Compliance Desk",
+    "use_tls": true
+  },
+  {
+    "host": "smtp.gmail.com",
+    "port": 587,
+    "user": "another@gmail.com",
+    "password": "app_specific_password",
+    "from_name": "Trust & Safety Reporter",
+    "use_tls": true
+  }
+]

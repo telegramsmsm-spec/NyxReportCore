@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.session
+*.session-journal
+data/nyx_state.db
+logs/
+.env
+*.log
